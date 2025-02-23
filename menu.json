@@ -1,0 +1,17 @@
+{
+    "northdeli-background": {
+        "Breakfast": ["Bagel with Cream Cheese", "Egg Sandwich", "Fruit Cup"],
+        "Lunch": ["Turkey Club Sandwich", "Ham & Cheese Wrap", "Chicken Caesar Wrap"],
+        "Dinner": ["Grilled Panini", "Pasta Salad", "Soup of the Day"]
+    },
+    "bakery-background": {
+        "Breakfast": ["Croissants", "Danish Pastry", "Cinnamon Rolls"],
+        "Lunch": ["Chocolate Cake", "Muffins", "Strawberry Shortcake"],
+        "Dinner": ["Brownies", "Cheesecake", "Fruit Tart"]
+    },
+    "cstreetgrill-background": {
+        "Breakfast": ["Pancakes", "Scrambled Eggs", "Bacon"],
+        "Lunch": ["Cheeseburger", "Grilled Chicken Sandwich", "Fries"],
+        "Dinner": ["BBQ Ribs", "Grilled Steak", "Coleslaw"]
+    }
+}
